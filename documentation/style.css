@@ -1,0 +1,48 @@
+.nav-link {
+    color: darkolivegreen;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    color: darkolivegreen;
+}
+
+#header {
+    background-color: white;
+}
+
+#linkBar {
+    background-color: darkkhaki;
+}
+
+body {
+    background-color: darkolivegreen;
+}
+
+h1 {
+    text-align: center;
+    color: darkkhaki;
+    margin-top: 90px;
+}
+
+#logo {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+
+#aboutUsText {
+    color: white;
+    margin-top: 20px;
+}
+
+#listOfServices {
+    color: white;
+    font-size: 30px;
+
+}
+
+#servicesHeader {
+    font-size: 50px;
+}
