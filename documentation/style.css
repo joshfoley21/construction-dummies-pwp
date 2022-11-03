@@ -7,6 +7,7 @@
     color: darkolivegreen;
 }
 
+
 #header {
     background-color: white;
 }
@@ -45,4 +46,16 @@ h1 {
 
 #servicesHeader {
     font-size: 50px;
+}
+
+h2 {
+    color: darkkhaki;
+}
+
+h5 {
+    color: darkkhaki;
+}
+
+#contactSub {
+    color: darkkhaki;
 }
